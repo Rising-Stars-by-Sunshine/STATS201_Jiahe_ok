@@ -1,4 +1,4 @@
-![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_ok/assets/154964920/2c4835ba-a295-4e16-899a-140d982858a7)# Paper Introduction
+# Paper Introduction
 
 ## Introduction
 This is an Introduction to the paper by Niksirat (2023), entitled Changes in research ethics, openness, and transparency in empirical studies between CHI 2017 and CHI 2022.
