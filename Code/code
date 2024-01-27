@@ -1,0 +1,50 @@
+import dash
+from dash import dcc, html
+from dash.dependencies import Input, Output
+import pandas as pd
+import plotly.express as px
+
+# Load the data
+url = "https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_ok/raw/main/Data/covid_19_clean_complete.csv"
+df = pd.read_csv(url)
+
+# Create Dash app
+app = dash.Dash(__name__)
+
+# Define layout
+app.layout = html.Div([
+    html.H1("COVID-19 Data Dashboard"),
+    
+    # Dropdown for selecting WHO Region
+    dcc.Dropdown(
+        id='region-dropdown',
+        options=[{'label': region, 'value': region} for region in df['WHO Region'].unique()],
+        value=df['WHO Region'].unique()[0],
+        multi=False,
+        style={'width': '50%'}
+    ),
+    
+    # Scatter plot
+    dcc.Graph(id='scatter-plot'),
+
+])
+
+# Define callback to update scatter plot based on dropdown selection
+@app.callback(
+    Output('scatter-plot', 'figure'),
+    [Input('region-dropdown', 'value')]
+)
+def update_scatter_plot(selected_region):
+    # Filter data based on selected WHO Region
+    filtered_df = df[df['WHO Region'] == selected_region]
+
+    # Create scatter plot using Plotly Express
+    fig = px.scatter(filtered_df, x='Lat', y='Confirmed', color='Country/Region', 
+                     labels={'Lat': 'Latitude', 'Confirmed': 'Confirmed Cases', 'Country/Region': 'Country'},
+                     title=f'Scatter Plot for {selected_region}')
+
+    return fig
+
+# Run the app
+if __name__ == '__main__':
+    app.run_server(debug=True)
