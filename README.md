@@ -6,13 +6,16 @@ Oh yeah, hello everybody.
 **Introduction of this repository** 
 The GitHub repository contains code for visualizing vaccine hesitancy prediction using machine learning models along with raw data from Italian child immunization campaigns in 2016. The code implements various machine learning algorithms and evaluates their performance using receiver operating characteristic (ROC) curves. Additionally, it includes data preprocessing steps and feature importance analysis. The repository serves as a resource for researchers and policymakers interested in understanding and addressing vaccine hesitancy. It provides a comprehensive framework for predicting vaccine hesitancy at the community level, facilitating evidence-based decision-making in public health interventions.  
 
-**Content**  
+**Content** 
 - Code
   - code
   - ReadMe.md
 - Data  
   - covid_19_clean_complete.csv
-  - ReadMe.md  
+  - ReadMe.md
+- Literature
+  - Paper.md
+  - Idea.md 
 - ReadMe.md
   
 **About the Author**
