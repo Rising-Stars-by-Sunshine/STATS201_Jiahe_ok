@@ -1,7 +1,7 @@
 # Applying machine learning in retrospective research of the COVID-19 Outbreaks: A Spatiotemporal Analysis
 
 ## Background/Motivation
-The emergence of the COVID-19 pandemic has brought into sharp focus the pressing need for accurate forecasting of disease outbreaks to guide effective public health responses. Traditional epidemiological models, while valuable, often struggle to capture the intricate spatial and temporal dynamics inherent in the spread of infectious diseases like COVID-19. These models typically rely on simplified assumptions and may face challenges in incorporating real-time data, resulting in limitations in predictive accuracy and reliability.
+The emergence of the COVID-19 pandemic has brought into sharp focus the pressing need for accurate forecasting of disease outbreaks to guide effective public health responses (Chen, 2021). Traditional epidemiological models, while valuable, often struggle to capture the intricate spatial and temporal dynamics inherent in the spread of infectious diseases like COVID-19. These models typically rely on simplified assumptions and may face challenges in incorporating real-time data, resulting in limitations in predictive accuracy and reliability.
 
 In light of these shortcomings, there is growing recognition of the potential of machine learning (ML) as a powerful tool to enhance disease forecasting capabilities. Unlike traditional models, ML approaches offer the advantage of being able to analyze vast and diverse datasets, including demographic information, healthcare records, mobility patterns, environmental factors, and even social media data. By leveraging sophisticated algorithms, ML techniques can uncover complex patterns and relationships within these data, thereby improving the accuracy and granularity of disease forecasts.
 
@@ -43,3 +43,5 @@ This research contributes to:
 ## Fig 1. Research Idea Outline
 ![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_ok/assets/154964920/b859162f-7432-436e-9668-4a1465d594ed)
 
+## Reference
+Chen, Y., Fei, W., Wang, Q., Zeng, D., & Wang, Y. (2021). Dynamic COVID risk assessment accounting for community virus exposure from a spatial-temporal transmission model. Advances in Neural Information Processing Systems, 34, 27747.  
