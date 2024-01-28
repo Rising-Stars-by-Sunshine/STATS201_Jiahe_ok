@@ -1,14 +1,15 @@
 # Applying machine learning in retrospective research of the COVID-19 Outbreaks: A Spatiotemporal Analysis
 
 ## Background/Motivation
-The emergence of the COVID-19 pandemic has brought into sharp focus the pressing need for accurate forecasting of disease outbreaks to guide effective public health responses (Chen, 2021). Traditional epidemiological models, while valuable, often struggle to capture the intricate spatial and temporal dynamics inherent in the spread of infectious diseases like COVID-19. These models typically rely on simplified assumptions and may face challenges in incorporating real-time data, resulting in limitations in predictive accuracy and reliability.
+The COVID-19 pandemic has influence the whole world, leading to more than 774 million cases (WHO, 2024). The emergence of the COVID-19 pandemic has brought into sharp focus the pressing need for accurate forecasting of disease outbreaks to guide effective public health responses (Chen et al., 2021). 
 
-In light of these shortcomings, there is growing recognition of the potential of machine learning (ML) as a powerful tool to enhance disease forecasting capabilities. Unlike traditional models, ML approaches offer the advantage of being able to analyze vast and diverse datasets, including demographic information, healthcare records, mobility patterns, environmental factors, and even social media data. By leveraging sophisticated algorithms, ML techniques can uncover complex patterns and relationships within these data, thereby improving the accuracy and granularity of disease forecasts.
+Traditional epidemiological models, while valuable, often struggle to capture the intricate spatial and temporal dynamics inherent in the spread of infectious diseases like COVID-19. These models typically rely on simplified assumptions and may face challenges in incorporating real-time data, resulting in limitations in predictive accuracy and reliability.
 
-The importance of accurate forecasting in the context of the COVID-19 pandemic cannot be overstated. Timely and reliable predictions play a crucial role in informing public health decision-making, enabling authorities to allocate resources efficiently, implement targeted interventions, and mitigate the impact of the pandemic on both health outcomes and socio-economic wellbeing. By providing early warnings of potential outbreaks and identifying high-risk areas, ML-based forecasting models have the potential to significantly enhance our ability to prevent and control the spread of infectious diseases.
+In light of these shortcomings, there is growing recognition of the potential of machine learning (ML) as a powerful tool to enhance disease forecasting capabilities (Bowyer et al. 2022). By leveraging sophisticated algorithms, ML techniques can uncover complex patterns and relationships within these data, thereby improving the accuracy and granularity of disease forecasts.
+
+Timely and reliable predictions play a crucial role in informing public health decision-making, enabling authorities to allocate resources efficiently, implement targeted interventions, and mitigate the impact of the pandemic on both health outcomes and socio-economic wellbeing (Kafieh et al., 2021). By providing early warnings of potential outbreaks and identifying high-risk areas, ML-based forecasting models have the potential to significantly enhance our ability to prevent and control the spread of infectious diseases.
+
 Despite the promise of ML in disease forecasting, there remain several challenges and opportunities for further research. These include the need for robust methodologies that can effectively integrate disparate data sources, the development of scalable and interpretable ML models that can be deployed in real-world settings, and the exploration of novel approaches for uncertainty quantification and model validation. Addressing these challenges will be critical to realizing the full potential of ML in bolstering our preparedness and response to future disease outbreaks.
-In light of the urgency and complexity of the ongoing COVID-19 crisis, there is a clear imperative to harness the power of machine learning to augment traditional epidemiological models and improve our ability to forecast disease outbreaks. This research proposal seeks to contribute to this important endeavor by developing and evaluating novel ML-based approaches for disease forecasting, with the aim of enhancing our capacity to protect public health and save lives in the face of emerging infectious threats.
-
 
 ## Research Question
 The central focus of this study is to investigate the efficacy of machine learning models in predicting the spatial and temporal spread of COVID-19 outbreaks during the critical period spanning from January 2020 to July 2020. The overarching research question guiding this investigation is:
@@ -90,3 +91,13 @@ This research contributes to the aspects as follows.
 
 ## Reference
 Chen, Y., Fei, W., Wang, Q., Zeng, D., & Wang, Y. (2021). Dynamic COVID risk assessment accounting for community virus exposure from a spatial-temporal transmission model. Advances in Neural Information Processing Systems, 34, 27747.  
+
+World Health Organization. (2024). WHO COVID-19 dashboard. https://data.who.int/dashboards/covid19/cases?n=c
+
+Bowyer, S. A., Bryant, W. A., Key, D., Booth, J., Briggs, L., Spiridou, A., Cortina-Borja, M., Davies, G., Taylor, A. M., & Sebire, N. J. (2022). Machine learning forecasting for COVID-19 pandemic-associated effects on paediatric respiratory infections. Archives of Disease in Childhood, 107(12), e36-e36. https://doi.org/10.1136/archdischild-2022-323822
+
+Kafieh, R., Arian, R., Saeedizadeh, N., Amini, Z., Serej, N. D., Minaee, S., Yadav, S. K., Vaezi, A., Rezaei, N., & Haghjooy Javanmard, S. (2021). COVID-19 in iran: Forecasting pandemic using deep learning. Computational and Mathematical Methods in Medicine, 2021, 6927985-16. https://doi.org/10.1155/2021/6927985
+
+## grammarly report
+
+![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_ok/assets/154964920/8ab276ef-1280-4191-8514-45776e1d9958)
