@@ -15,7 +15,7 @@ The GitHub repository contains code for visualizing vaccine hesitancy prediction
   - ReadMe.md
 - Literature
   - Paper.md
-  - Idea.md 
+  - Research.md 
 - ReadMe.md
   
 **About the Author**
