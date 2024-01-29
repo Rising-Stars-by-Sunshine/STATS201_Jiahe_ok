@@ -1,7 +1,7 @@
 # Paper Introduction
 
 ## Introduction
-This is an Introduction to the paper by Niksirat (2023), entitled Changes in research ethics, openness, and transparency in empirical studies between CHI 2017 and CHI 2022.
+This is an Introduction to the paper by Niksirat (2023), entitled “Changes in research ethics, openness, and transparency in empirical studies between CHI 2017 and CHI 2022”.
 
 ## Background
 Vaccine hesitancy (VH) poses a significant challenge to global health initiatives, particularly in the context of mass immunization campaigns such as those aimed at combating COVID-19. VH not only jeopardizes efforts to achieve herd immunity against infectious diseases like COVID-19 but also threatens progress made in eradicating vaccine-preventable diseases such as measles and rubella. Several individual-level factors have been identified as associated with VH, including socioeconomic status, trust in conventional medicine, and risk perception. However, collecting such data on a large scale is challenging, especially during time-sensitive vaccination campaigns. Therefore, leveraging readily available area-level indicators to predict communities at high risk of VH could provide a valuable alternative for policymakers.
