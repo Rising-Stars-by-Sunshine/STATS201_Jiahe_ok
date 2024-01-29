@@ -98,6 +98,8 @@ Bowyer, S. A., Bryant, W. A., Key, D., Booth, J., Briggs, L., Spiridou, A., Cort
 
 Kafieh, R., Arian, R., Saeedizadeh, N., Amini, Z., Serej, N. D., Minaee, S., Yadav, S. K., Vaezi, A., Rezaei, N., & Haghjooy Javanmard, S. (2021). COVID-19 in iran: Forecasting pandemic using deep learning. Computational and Mathematical Methods in Medicine, 2021, 6927985-16. https://doi.org/10.1155/2021/6927985
 
-## grammarly report
+## Grammarly/Turnitin report
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_ok/assets/154964920/8ab276ef-1280-4191-8514-45776e1d9958)
+![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_ok/assets/154964920/55e040e2-d533-408b-94d3-bc95c134f0a8)
+
