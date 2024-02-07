@@ -13,4 +13,4 @@ Active: The number of active COVID-19 cases on the given date.
 WHO Region: The World Health Organization (WHO) region to which the country/region belongs.
 Each row in the dataset likely represents the COVID-19 statistics for a specific location (province/state) on a particular date. The dataset appears to cover various countries/regions and tracks the progression of COVID-19 cases, deaths, and recoveries over time. Additionally, it includes geographical coordinates and WHO region classifications for each location.
 
-
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report
