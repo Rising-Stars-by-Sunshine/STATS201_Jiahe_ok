@@ -1,16 +1,4 @@
 #Here is my data
-This dataset provides the covid-19 cases in the world, from january to july, 2020. 
-The dataset contains information about the COVID-19 pandemic, including the following columns:
-Province/State: The specific province or state within a country where the data is recorded.
-Country/Region: The country or region where the data is recorded.
-Lat: Latitude coordinates of the location.
-Long: Longitude coordinates of the location.
-Date: The date on which the data was recorded.
-Confirmed: The number of confirmed COVID-19 cases on the given date.
-Deaths: The number of deaths due to COVID-19 on the given date.
-Recovered: The number of recovered COVID-19 cases on the given date.
-Active: The number of active COVID-19 cases on the given date.
-WHO Region: The World Health Organization (WHO) region to which the country/region belongs.
-Each row in the dataset likely represents the COVID-19 statistics for a specific location (province/state) on a particular date. The dataset appears to cover various countries/regions and tracks the progression of COVID-19 cases, deaths, and recoveries over time. Additionally, it includes geographical coordinates and WHO region classifications for each location.
+The data query involves obtaining a cross-sectional dataset from two sources: Cancer Data World and Kaggle. This dataset contains information on individuals' obesity levels and lung cancer outcomes. The variables of interest include the dependent variable, representing the incidence or severity of lung cancer categorized as low, medium, or high, and the independent variable, which denotes levels of obesity on a scale of 1 to 9 as provided in the dataset. The query aims to gather comprehensive data for analysis, capturing the nuanced relationship between obesity and lung cancer. The dataset's cross-sectional nature allows for a snapshot of individuals' characteristics and outcomes at a specific point in time, facilitating the investigation into patterns or correlations between obesity levels and lung cancer incidence. This data query sets the foundation for the subsequent machine learning analysis, which seeks to explore and understand the complex interplay between obesity and lung cancer risk.
 
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+
